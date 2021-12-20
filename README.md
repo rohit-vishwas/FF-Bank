@@ -2,6 +2,8 @@
 
 Created a decentralized bank on ethereum network using concepts of blockchain
 
+Video Link: https://www.youtube.com/watch?v=nvjkx1IUQGo
+
 Some of the problems we are tackling:
 
 ➢Solves the trust issues between users and the bank ➢The system is less probable to crash
