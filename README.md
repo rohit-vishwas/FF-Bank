@@ -1,2 +1,3 @@
 # FF-Bank
-A decentralised bank based on blockchain concepts 
+
+Created a decentralized bank on ethereum network using concepts of blockchain
